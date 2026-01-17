@@ -1,5 +1,3 @@
-# AERPA-PHARMA-ANALYTICS
-AERPA : Automated Enterprise Risk &amp; Predictive Analytics  Real-time batch risk intelligence for pharmaceutical operations—built entirely in Excel + VBA.
 
 # 🚀 AERPA v11.0: Automated Enterprise Risk & Predictive Analytics
 
@@ -20,8 +18,7 @@ Real-time batch risk intelligence for pharmaceutical operations—built entirely
 
 ## Documentation
 - [User Guide](AERPA_User_Guide.md)
-- [Architecture](docs/ARCHITECTURE.md)
-- [Step-by-Step Build](docs/AERPA_Step_by_Step_Build.md)
+- [Architecture](ARCHITECTURE.md)
 
 ## Contact
 Questions? Open an issue or reach out on LinkedIn.
