@@ -19,7 +19,7 @@ Real-time batch risk intelligence for pharmaceutical operations—built entirely
 - Real-time alerts (Email, Slack, SMS)
 
 ## Documentation
-- [User Guide](AERPA_USER_GUIDE.md)
+- [User Guide](AERPA_User_Guide.md)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Step-by-Step Build](docs/AERPA_Step_by_Step_Build.md)
 
