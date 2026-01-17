@@ -313,7 +313,7 @@ AERPA uses 5 independent methods to detect anomalies:
 
 ---
 
-## 6. PHASE 3E: PREDICTIVE ML & PRESCRIPTIVE ACTIONS
+## 6. PHASE 3: PREDICTIVE ML & PRESCRIPTIVE ACTIONS
 
 ### 6.1 ML Model Overview
 
